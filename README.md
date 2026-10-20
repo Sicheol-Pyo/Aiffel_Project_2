@@ -238,7 +238,6 @@ Web 포함 시 수신율 격차는 **청년층에서 27.15%p로 최대**, 51세 
 ```text
 Project_2/
 ├── 📓 project_2_표시철.ipynb                  # 가설 검증 · 통계 분석 노트북
-├── 📓 ppt 관련.ipynb                          # 발표 자료용 보조 노트북
 ├── 📊 주영 없는 주영팀 Project2 발표자료.pptx    # 발표 자료
 ├── 📝 Starbucks_Offer_Analytics_발표대본.docx   # 발표 대본
 ├── 🖥️ STARBUCKS 오퍼 성과 대시보드.html          # 인터랙티브 대시보드
