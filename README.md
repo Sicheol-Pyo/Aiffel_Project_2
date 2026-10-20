@@ -74,6 +74,8 @@
 </tr>
 </table>
 
+> 📊 **[인터랙티브 대시보드 보기](https://sicheol-pyo.github.io/Aiffel_Project_2/starbucks_dashboard_page1_fixed.html)** — 오퍼 유형 · 설계 변수별 성과를 직접 탐색할 수 있습니다.
+
 <details>
 <summary><b>🎁 오퍼 유형 3종 보기</b></summary>
 <br>
